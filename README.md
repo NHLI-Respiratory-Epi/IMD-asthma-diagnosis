@@ -1,0 +1,1 @@
+Codelists for the project on the association between socioeconomic status, measured by the Index of Multiple Deprivation (IMD) at composite and domain levels, and the time to asthma diagnosis in adults and children in England.
